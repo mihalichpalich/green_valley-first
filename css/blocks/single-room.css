@@ -1,0 +1,16 @@
+.single-room {
+  text-align: center;
+}
+.single-room__title-block {
+  line-height: normal;
+}
+.single-room__list {
+  display: block;
+}
+.single-room__list-item {
+  text-align: left;
+  display: block;
+}
+.single-room__slider {
+  width: 100%;
+}

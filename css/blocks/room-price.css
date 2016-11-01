@@ -1,0 +1,9 @@
+.room-price {
+  font-family: "Fira Sans";
+  font-weight: 500;
+  line-height: 24px;
+  text-transform: uppercase;
+  /* Text style for "от" */
+  color: #191919;
+  font-size: 14px;
+}

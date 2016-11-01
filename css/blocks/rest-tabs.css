@@ -1,0 +1,21 @@
+.rest-tabs__switcher {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  padding-bottom: 20px;
+  margin-bottom: 20px;
+}
+.rest-tabs__top-item {
+  margin-bottom: 15px;
+  padding-top: 20px;
+  padding-bottom: 154px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.rest-tabs__top-item-inner {
+  text-align: center;
+  opacity: 0.9;
+}
+.rest-tabs__top-descr {
+  font-family: ;
+}

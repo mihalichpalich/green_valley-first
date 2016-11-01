@@ -1,0 +1,11 @@
+.offers__item {
+  padding-bottom: 20px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.offers__item-descr {
+  opacity: 0.95;
+  padding-left: 20px;
+  padding-bottom: 16px;
+}

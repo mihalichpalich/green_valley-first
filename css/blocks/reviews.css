@@ -1,0 +1,11 @@
+.reviews {
+  background-image: url();
+  background-repeat: no-repeat;
+  background-position: left top;
+  background-size: cover;
+  padding-bottom: 40px;
+  text-align: center;
+}
+.reviews__slide {
+  background-color: #fff;
+}

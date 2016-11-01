@@ -1,0 +1,13 @@
+.accomodation-place {
+  background-color: #fff;
+  border: 1px solid rgba(0, 0, 0, 0.08);
+}
+.accomodation-place__image {
+  width: 100%;
+  height: auto;
+}
+.accomodation-place__descr {
+  text-align: center;
+  padding-top: 40px;
+  letter-spacing: 0.015em;
+}

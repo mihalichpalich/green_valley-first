@@ -1,0 +1,7 @@
+.promo-rooms {
+  text-align: center;
+  background-image: url('../imgs/rooms__bg.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 0 70%;
+}
